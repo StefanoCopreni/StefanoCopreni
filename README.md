@@ -1,5 +1,4 @@
-# 👋 ¡Hola! Soy Stefano Copreni
-
+# 👋 ¡Hola!
 ¡Bienvenido a mi perfil de GitHub! Soy un desarrollador apasionado por la tecnología, la programación y la resolución de problemas. Me especializo en crear soluciones eficientes y escalables, y siempre estoy buscando aprender y mejorar mis habilidades.
 
 ---
