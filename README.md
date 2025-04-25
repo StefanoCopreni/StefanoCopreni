@@ -9,14 +9,10 @@
 - 💡 Me interesa trabajar en proyectos relacionados con la creación de entornos innovadores. 
 ---
 
-## 📈 Estadísticas de GitHub
-
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=StefanoCopreni&show_icons=true&theme=radical)
 
 ---
 
-## 🤝 Conectemos
-
-- LinkedIn: [Tu perfil de LinkedIn](https://www.linkedin.com/in/stefano-copreni-2786871a2/)
+- [LinkedIn](https://www.linkedin.com/in/stefano-copreni-2786871a2/)
 
 ---
