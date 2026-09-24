@@ -1,18 +1,39 @@
-# 👋 ¡Hola!
-¡Bienvenido a mi perfil de GitHub! Soy un desarrollador apasionado por la tecnología, la programación y la resolución de problemas. Me especializo en crear soluciones eficientes y escalables, y siempre estoy buscando aprender y mejorar mis habilidades.
+# 👋 ¡Hola! Soy Stefano Copreni
+
+**Frontend Developer @ Nómada Digital**
+
+Soy un desarrollador especializado en arquitecturas web modernas y plataformas de comercio electrónico. Me enfoco en crear soluciones eficientes, escalables y orientadas al rendimiento. Formo parte del equipo de **Nómada Digital**, donde desarrollo experiencias de usuario y componentes customizados.
 
 ---
 
-## 🚀 Sobre mí
+## 🚀 Sobre mí y mi trabajo
 
-- 💼 Tengo experiencia en maquetación de plataformas Webs en varias tecnologías. Actualmente trabajando en VTEX IO con React & Typescript.
-- 💡 Me interesa trabajar en proyectos relacionados con la creación de entornos innovadores. 
----
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=StefanoCopreni&show_icons=true&theme=radical)
+- 💼 Tengo experiencia en la maquetación y desarrollo de plataformas e-commerce, integrando soluciones complejas.
+- 💻 Mi stack principal para el día a día incluye **React**, **TypeScript**, **Next.js**, **VTEX IO** y **FastStore**.
+- 💡 Me apasiona trabajar en la creación de entornos innovadores, optimizando flujos de trabajo y resolviendo desafíos técnicos.
 
 ---
 
-- [LinkedIn](https://www.linkedin.com/in/stefano-copreni-2786871a2/)
+## 🛠️ Stack Tecnológico
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
+![VTEX](https://img.shields.io/badge/-VTEX-F71963?style=flat-square&logo=vtex&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
 ---
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=StefanoCopreni&show_icons=true&theme=radical" alt="Estadísticas de Stefano" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StefanoCopreni&layout=compact&theme=radical" alt="Lenguajes más usados" height="150" />
+</div>
+
+---
+
+## 📫 Conectemos
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stefano-copreni-2786871a2/)
