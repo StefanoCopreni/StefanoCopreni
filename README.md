@@ -25,15 +25,6 @@ Soy un desarrollador especializado en arquitecturas web modernas y plataformas d
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StefanoCopreni&show_icons=true&theme=radical" alt="Estadísticas de Stefano" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StefanoCopreni&layout=compact&theme=radical" alt="Lenguajes más usados" height="150" />
-</div>
-
----
-
 ## 📫 Conectemos
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stefano-copreni-2786871a2/)
